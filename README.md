@@ -2,7 +2,7 @@
 
 😍 Improve the User Experience in your PWA. 📱Add your PWA to the Home Screen of your device's.
 
-![Mobile example](src/screen.png)
+![Mobile example](src/screen.jpg)
 
 ## Installation
 
