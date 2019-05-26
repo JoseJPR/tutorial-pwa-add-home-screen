@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-pwa-add-home-screen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-pwa-add-home-screen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-pwa-add-home-screen/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-pwa-add-home-screen#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "pretty-console-colors": "^1.0.6"
+  }
+}
